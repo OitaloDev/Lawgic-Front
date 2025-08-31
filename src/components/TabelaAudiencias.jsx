@@ -60,7 +60,8 @@ export default function TabelaAudiencias() {
                 <button
                   onClick={()=>handleRedirect(item)}
                   className="mt-2 px-4 py-2 bg-blue-600 text-white rounded"
-                >
+                >  
+                
                   Ver detalhes
                 </button>
               </td>
